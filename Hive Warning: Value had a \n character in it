@@ -1,2 +1,2 @@
 set语句后面分号缺失
-set mapred.job.queue.name=${your_hive_queue_name}**;**
+set mapred.job.queue.name=${your_hive_queue_name};
